@@ -1,9 +1,8 @@
 ## Day 00
 
-ross.wolvedeer.com
 
 **Date:** 12/16/2022  
-**Site:**  
+**Site:ross.wolvedeer.com**  
 
 
 Yesterday, I showed you how to make a website. Today, I want you to make one on your own!
