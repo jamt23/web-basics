@@ -2,7 +2,7 @@
 
 
 **Date:** 12/16/2022  
-**Site:** <https://ross.wolvedeer.com>  
+**Site:** <http://ross.wolvedeer.com>  
 
 
 Yesterday, I showed you how to make a website. Today, I want you to make one on your own!
