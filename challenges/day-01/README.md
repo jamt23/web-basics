@@ -2,7 +2,7 @@
 
 
 **Date:** 12/19/2022  
-**Site: **   <https://jamt23.github.io/web-basics/challenges/day-01/index.html>
+**Site:**   <https://jamt23.github.io/web-basics/challenges/day-01/index.html>
 
 
 For today's assignment, I want you to try and match the image below as closely as possible.
