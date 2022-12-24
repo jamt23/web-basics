@@ -2,7 +2,7 @@
 
 
 **Date:** 12/22/2022  
-**Site:** 
+**Site:** https://jamt23.github.io/web-basics/challenges/day-02/index.html
 
 
 Let's start getting a little fancier with the css now. I want you to try and match the image below as
